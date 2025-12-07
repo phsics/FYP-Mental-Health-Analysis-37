@@ -2,14 +2,6 @@
 
 This project aims to build a predictive model to detect suicidal intent in social media posts, and to integrate the model into a functional mental health chatbot.
 
-## Project Resources
-For more project details, please refer to the following resources linked here:
-- [Project Report](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gohjiayi/suicidal-text-detection/master/docs/Suicidal-Text-Detection_Report.pdf)
-- [Project Slides](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/gohjiayi/suicidal-text-detection/master/docs/Suicidal-Text-Detection_Slides.pdf)
-- [Project Video](https://youtu.be/RpvtJ32cqqA)
-
-If you are unable to view the report and slides, navigate to the `docs/` folder.
-
 ## Project Directory Structure
 ```
 ├── data_preprocessing.ipynb
